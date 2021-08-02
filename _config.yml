@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Chris Swart
 tagline:          Natural Language Processing
 description:      'Natural Language Processing'
-url:              https://swartchris8.github.io
+url:              https://gregoryswart.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,7 +16,7 @@ baseurl:          '/'
 
 google_analytics: 'UA-162892290-1'
 author:
-  name:           'Chris Swart'
+  name:           'Gregory Swart'
   url:            https://twitter.com/swartchris8
 
 paginate:         5
